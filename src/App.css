@@ -1,0 +1,4 @@
+/* Apply Inter font globally */
+body {
+  font-family: 'Inter', sans-serif;
+}
