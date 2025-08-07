@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/shadab-portfolio/static/js/main.cb8c4aac.js",
+    "static/js/453.61bd7f46.chunk.js": "/shadab-portfolio/static/js/453.61bd7f46.chunk.js",
+    "index.html": "/shadab-portfolio/index.html",
+    "main.cb8c4aac.js.map": "/shadab-portfolio/static/js/main.cb8c4aac.js.map",
+    "453.61bd7f46.chunk.js.map": "/shadab-portfolio/static/js/453.61bd7f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb8c4aac.js"
+  ]
+}
